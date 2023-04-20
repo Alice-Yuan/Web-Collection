@@ -1,5 +1,3 @@
-
-
 #### 常用资源站点整合：
 
 请复制到浏览器打开！！
@@ -7,8 +5,6 @@
 请复制到浏览器打开！！
 
 （如遇站点无法打开请魔法上网）
-
-
 
 ##### 游戏
 
@@ -34,13 +30,9 @@ acgngames：[https://acgngames.net](https://acgngames.net/)
 
 量子acg：[https://lzacg.one](https://lzacg.one/)
 
-
-
 ##### 游戏补丁：
 
 [https://kagurafan.com](https://kagurafan.com/)
-
-
 
 ##### 番剧：
 
@@ -52,15 +44,11 @@ AGE动漫：[https://www.agemys.com](https://www.agemys.com/)（正经）
 
 OmoFun动漫：[https://omofun.tv](https://omofun.tv/) （网站停运，可以下app）
 
-
-
 ##### 里番：
 
 [https://hentaimama.io](https://hentaimama.io)（英文网站）
 
 https://hanime1.me
-
-
 
 ##### 本子：
 
@@ -74,29 +62,19 @@ BIKA：[https://ios.zyy50.top](https://ios.zyy50.top/)（仅限ios+pc）
 
 n站：[https://nhentai.net](https://nhentai.net/)
 
-
-
 ##### 涩图：
 
 [https://himebon.blog](https://himebon.blog/)
 
-
-
 ##### 3D/MMD：
 
 i站：[https://www.iwara.tv](https://www.iwara.tv/)
-
-
 
 ##### AV：
 
 Jable：[http://jable.tv](http://jable.tv/)
 
 鲍鱼:[http://29tun.com](http://29tun.com/)
-
-
-
-
 
 ##### 搜图/查询：
 
@@ -106,9 +84,7 @@ Yandex：[https://yandex.com/images](https://yandex.com/images)
 
 trace：[https://trace.moe](https://trace.moe/)
 
-
-
-
+saucenao：[https://saucenao.com](https://saucenao.com/)
 
 ##### ASMR：
 
@@ -116,18 +92,10 @@ trace：[https://trace.moe](https://trace.moe/)
 
 2.  [japaneseasmr.com](http://japaneseasmr.com)
 
-
-
-
-
 ##### 图片Api
 
 [http://api.iw233.cn](http://api.iw233.cn)
 
-
-
 ##### 手机软件下载
 
 [https://www.uptodown.com](https://www.uptodown.com)
-
-
